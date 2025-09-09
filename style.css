@@ -2,7 +2,6 @@
     --text-color: #dbe4ef;
     --card-front-color: #5874c2;
     --card-back-color: #00f4bf;
-
 }
 
 body {
@@ -19,7 +18,7 @@ body {
 }
 
 .cartao {
-  margin: 1rem 1rem;
+    margin: 1rem 1rem;
     background-color: rgb(10, 238, 238);
     height: 20rem;
     flex-grow: 1;
@@ -60,7 +59,6 @@ body {
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
-
 }
 
 .cartao:hover .cartao__conteudo {
@@ -77,7 +75,6 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-
 }
 
 footer {
