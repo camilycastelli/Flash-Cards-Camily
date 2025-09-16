@@ -39,3 +39,10 @@ criaCartao(
     ' Qual é o nome da rede social criada por Mark Zuckerberg?',
     'Facebook'
 )
+
+
+criaCartao(
+    'Conhecimentos gerais',
+    'Qual é o nome da rede social criada por Luiza',
+    'Facebook'
+)
