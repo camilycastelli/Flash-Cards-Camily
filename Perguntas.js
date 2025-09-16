@@ -56,7 +56,11 @@ criaCartao(
 criaCartao(
     'Conhecimentos gerais',
     'A que temperatura a água ferve?',
-    
+    '100 graus'
+)
+
+criaCartao(
+    'Qual o maior planeta do sistema solar?'
 )
 
 
