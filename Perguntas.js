@@ -34,15 +34,47 @@ criaCartao(
     'Facebook'
 )
 
-criaCartao(
-    'Conhecimentos gerais',
-    ' Qual é o nome da rede social criada por Mark Zuckerberg?',
-    'Facebook'
-)
-
 
 criaCartao(
     'Conhecimentos gerais',
-    'Qual é o nome da rede social criada por Luiza',
-    'Facebook'
+    'Quem pintou a famosa obra "Noite Estrelada',
+    'Vicente Van Gogh'
 )
+
+criaCartao(
+    'Conhecimentos gerais',
+    'Onde se localiza Machu Picchu?',
+    'Peru'
+)
+
+criaCartao(
+    'Conhecimentos gerais',
+    'Quem inventou a lâmpada?',
+    'Thomas Edison'
+)
+
+criaCartao(
+    'Conhecimentos gerais',
+    'A que temperatura a água ferve?',
+    
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
