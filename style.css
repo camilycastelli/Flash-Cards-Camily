@@ -3,11 +3,11 @@
     --card-front-color: #df3131;
     --card-back-color: #dd8a1ef1;
     --cor-da-borda:#138a62;
-    --cor-fundo-cartao: #e0d0d0;
+    --cor-fundo-cartao: #076e97;
 }
 
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(179, 179, 179);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
