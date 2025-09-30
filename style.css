@@ -1,13 +1,13 @@
 :root {
     --text-color: #ffffff;
-    --card-front-color: #ce2121;
+    --card-front-color: #df3131;
     --card-back-color: #dd8a1ef1;
-    --cor-da-borda:#9bd688;
+    --cor-da-borda:#8a1313;
     --cor-fundo-cartao: #ffffff;
 }
 
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(121, 52, 52);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
@@ -21,7 +21,7 @@ body {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: rgb(10, 238, 238);
+    background-color: rgb(62, 71, 71);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
