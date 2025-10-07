@@ -49,7 +49,7 @@ criaCartao(
 criaCartao(
     'Gerais',
     'Qual o monumento famoso pela sua inclinação?',
-    'Torre de pisa.'
+    'Torre de Pisa.'
 )
 
 criaCartao(
